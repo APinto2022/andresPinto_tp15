@@ -1,28 +1,13 @@
+let peliculas = [
+  {
+    titulo:"El Padrino",
+    id: 1,
+    rating: 10,
+    awards: 99,
+    length: 221,
+    price: 1000,
+    genre: [ "Acción", "Animación","Aventuras", "Comedia", "Suspenso"],
+  }
+];
 
-let peliculas=[
-    {
-        id:null,
-        rating:null,
-        awards:null,
-        length:null,
-        price:null,
-        genre:[
-            "Aventuras",
-            "Comedia",
-            "Suspenso"]
-        },
-        {
-            id:null,
-            rating:null,
-            awards:null,
-            length:null,
-            price:null,
-            genre:["Acción",
-                "Animación",
-                "Aventuras",
-            ]
-        }
-]
-        
-
-module.exports=peliculas; 
+module.exports = peliculas;

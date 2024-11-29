@@ -1,2 +1,2 @@
-mensaje=“Node.js® es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.”
+“Node.js® es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.”
 module.exports{mensaje}
